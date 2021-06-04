@@ -38,8 +38,11 @@ Open the terminal and type following commands.
 ### How to Use ?
 
 • `useradd <your username>` To Create new ssh account
+<br/>
 • `nano /etc/issue.net` To Add Your Banner
+<br/>
 • `/etc/init.d/dropbear restart & service ssh restart` To Apply Your New Banner
+<br/>
 • `sudo reboot` To restart your server 
 <br/>
 
