@@ -11,7 +11,8 @@
 ### Operating System Requirements
 
 Hora Pusa works on any of the following operating systems:<br>
-• *Ubuntu* <br>
+<br>
+• ***Ubuntu*** <br>
 ------------------------------------------------------------------------
 
 ### How to Install
