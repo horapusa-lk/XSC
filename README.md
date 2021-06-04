@@ -57,4 +57,4 @@ We are not responsible for any misuse , account suspend or damage caused by this
 
 ------------------------------------------------------------------------
 
-*Special Thanks To Supun , Suresh , Shehara , Bawwa And My Friends*
+*Special Thanks To Supun , Suresh , Rashmika , Shehara , Bawwa And My Friends*
