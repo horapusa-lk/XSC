@@ -12,7 +12,9 @@
 
 Hora Pusa works on any of the following operating systems:<br>
 <br>
-• ***Ubuntu*** <br>
+* Ubuntu 20.04<br>
+* Ubuntu 18.04<br>
+* Ubuntu 16.04<br>
 ------------------------------------------------------------------------
 
 ### How to Install
