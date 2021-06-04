@@ -2,7 +2,7 @@
 # Hora Pusa SSH Script
 # Version : 1.0.0
 
-echo "After this operation, Stunnel, Dropbear, Squid and Badvpn will be installed on your server."
+echo "After this operation, Stunnel , Dropbear, Squid and Badvpn will be installed on your server."
 read -p "Do you want to continue? [y/n]" CONT
 if [[ ! $CONT =~ ^[Yy]$ ]]; then
   echo "Abort.";
