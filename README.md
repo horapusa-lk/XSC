@@ -1,16 +1,16 @@
 
-# Hora Pusa SSH Script
+# XSC SSH Script
 
 ------------------------------------------------------------------------
 
 ### Introduction
 
-* Hora Pusa SSH Script is a script for install ssh server on your ubuntu vps 
+* XSC SSH Script is a script for install ssh server on your ubuntu vps 
 ------------------------------------------------------------------------
 
 ### Operating System Requirements
 
-Hora Pusa works on any of the following operating systems:<br>
+XSC works on any of the following operating systems:<br>
 <br>
 * Ubuntu 20.04<br>
 * Ubuntu 18.04<br>
@@ -27,9 +27,9 @@ Open the terminal and type following commands.
 
 * `apt install git`
 
-* `git clone https://github.com/BHATHIYA-ROOT/ssh-script`
+* `git clone https://github.com/BHATHIYA-ROOT/XSC`
 
-* `cd ssh-script`
+* `cd XSC`
 
 * `chmod +x *`
 
