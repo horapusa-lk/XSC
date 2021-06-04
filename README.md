@@ -55,6 +55,6 @@ Open the terminal and type following commands.
 We are not responsible for any misuse , account suspend or damage caused by this program. use this script at your own risk!
 
 
-
+------------------------------------------------------------------------
 
 *Special Thanks To Supun , Suresh , Shehara , Bawwa And My Friends*
