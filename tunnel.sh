@@ -41,7 +41,7 @@ if [ -f "$FILE" ]; then
     rm "$FILE"
 fi
 
-echo -e "\e[96mCreating dropbear config\e[0m"
+echo -e "\e[96mCreating  dropbear config\e[0m"
 cat >> "$FILE" <<EOL
 # disabled because OpenSSH is installed
 # change to NO_START=0 to enable Dropbear
