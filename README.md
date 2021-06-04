@@ -5,7 +5,7 @@
 
 ### Introduction
 
-* Hora Pusa SSH Script is a script for install ssh server on your ubuntu vps *
+Hora Pusa SSH Script is a script for install ssh server on your ubuntu vps 
 ------------------------------------------------------------------------
 
 ### Operating System Requirements
