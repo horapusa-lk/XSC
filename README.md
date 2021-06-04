@@ -21,6 +21,8 @@ Hora Pusa works on any of the following operating systems:<br>
 
 Open the terminal and type following commands.
 
+* `sudo -s`
+
 * `apt update`
 
 * `apt install git`
@@ -41,7 +43,7 @@ Open the terminal and type following commands.
 <br/>
 • `nano /etc/issue.net` To Add Your Banner
 <br/>
-• `/etc/init.d/dropbear restart & service ssh restart` To Apply Your New Banner
+• `/etc/init.d/dropbear restart && service ssh restart` To Apply Your New Banner
 <br/>
 • `sudo reboot` To restart your server 
 <br/>
