@@ -27,7 +27,7 @@ Open the terminal and type following commands.
 
 * `apt install git`
 
-* `git clone https://github.com/BHATHIYA-ROOT/XSC`
+* `git clone https://github.com/Horapusaa/XSC`
 
 * `cd XSC`
 
